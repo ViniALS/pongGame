@@ -4,3 +4,7 @@ Esse pong game tem como objetivo mostrar de forma clara e intuitiva os aprendiza
 - Modificações no jogo que aplicam translação e escalação (Aumento da bola e duplicação);
 - IA inimiga com 3 níveis de dificuldades;
 - Sistema de pontuação e reinicialização da partida.
+
+Para testar o jogo:
+- Baixe os arquivos do jogo;
+Abra a pasta "executavel" e executar o .exe (somente pra Windows);
